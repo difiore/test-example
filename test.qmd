@@ -1,0 +1,17 @@
+---
+title: "Test Quarto"
+author: Anthony Di Fiore
+format: html
+---
+
+## This is my test Quarto file
+
+This code does something
+# Standard Code block
+```{r}
+x<- 1
+print(x)
+log(-x)
+```
+
+
